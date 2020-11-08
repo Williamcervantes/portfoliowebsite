@@ -10,16 +10,15 @@ body {
 
 .cervantes-box-title {
     color: #706897;
-    margin-top: 0;
 }
 .cervantes-intro-box {
     position: absolute;
+    margin: 0 auto;
     top: 0;
     opacity: 1;
 }
 .cervantes-box-cursive {
     color: #706897;
-    margin-top: 0;
 }
 
 #windmill {
