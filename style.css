@@ -1,0 +1,30 @@
+body {
+    background-color: #f4f4f2;
+}
+
+.cervantes-box-title {
+    color: #495464
+}
+
+#windmill {
+    display: block;
+    margin: 0 auto;
+    max-width: 700px;
+  }
+  
+  .cls-3{
+    transform: translateX(150px);
+    animation: scroll 20s infinite linear;
+  }
+  
+  
+  @keyframes scroll {
+    from {
+      transform: translateX(-50px);
+    }
+    to {
+      transform: translateX(150px);
+    }
+  }
+    
+  
