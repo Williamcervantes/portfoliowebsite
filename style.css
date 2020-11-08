@@ -21,9 +21,11 @@ body {
 }
 
 #windmill {
-    display: block;
-    margin: 0 auto;
     max-width: 700px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
   }
   
   .cls-3{
