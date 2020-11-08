@@ -12,10 +12,9 @@ body {
     color: #706897;
 }
 .cervantes-intro-box {
-    position: absolute;
     margin: 0 auto;
-    top: 0;
     opacity: 1;
+    text-align: center;
 }
 .cervantes-box-cursive {
     color: #706897;
