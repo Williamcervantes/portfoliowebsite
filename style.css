@@ -18,6 +18,8 @@ body {
     transform: translate(-50%, -50%);
     opacity: 1;
     text-align: center;
+    margin: 0 auto;
+    font-size: 10px;
 }
 .cervantes-box-cursive {
     color: #706897;
