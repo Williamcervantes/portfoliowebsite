@@ -147,6 +147,11 @@ body {
     margin-left: 50px;
   }
   
+  .knight {
+    
+    opacity:0.2;
+  }
+  
   @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
